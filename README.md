@@ -18,6 +18,4 @@ A simple direct pin macropad for a 6 shortcuts : copy, paste, new tab, close tab
 
 ![alt text](image-url)
 ## Case
-![alt text](https://github.com/BeeeY/Shortcutkeys-Hackpad/blob/main/Screenshot%202026-07-04%20184429.png)
-
-![alt text](image-url)
+![alt text](https://github.com/BeeeY/Shortcutkeys-Hackpad/blob/main/Screenshot%202026-07-04%20184429.png) ![alt text](https://github.com/BeeeY/Shortcutkeys-Hackpad/blob/main/Screenshot%202026-07-11%20120853.png)
