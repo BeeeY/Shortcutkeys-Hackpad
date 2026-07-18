@@ -14,10 +14,10 @@ A simple direct pin macropad for a 6 shortcuts : copy, paste, new tab, close tab
 4x M3x5mx4mm heatset inserts
 
 ## Schematic & PCB
-![alt text](image-url)
+![alt text](https://github.com/BeeeY/Shortcutkeys-Hackpad/blob/main/Screenshot%202026-07-04%20184429.png)
 
 ![alt text](image-url)
 ## Case
-![alt text](image-url)
+![alt text](https://github.com/BeeeY/Shortcutkeys-Hackpad/blob/main/Screenshot%202026-07-04%20184429.png)
 
 ![alt text](image-url)
